@@ -152,7 +152,25 @@ non-commercial and share-alike requirements.
 
 The raw dataset is not included in this repository.
 
+## Dashboard Screenshots
+
+### 1. Executive Overview
+![Executive Overview](01_Executive_Overview.png)
+
+### 2. Seller Performance
+![Seller Performance](02_Seller_Performance.png)
+
+### 3. Customer Insights
+![Customer Insights](03_Customer_Insights.png)
+
+### 4. Delivery & Customer Satisfaction
+![Delivery & Customer Satisfaction](04_Delivery_Satisfaction.png)
+
+### 5. Executive Insights & Recommendations
+![Executive Insights](05_Executive_Insights.png)
+
 ## Author
+
 
 **payal-dataanalytics**
 
