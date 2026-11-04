@@ -159,3 +159,9 @@ The raw dataset is not included in this repository.
 This project is part of a data analytics portfolio demonstrating SQL
 analysis, data modelling, DAX, dashboard development, and business
 communication.
+## Power BI Dashboard
+
+[Download Interactive Power BI Dashboard](https://1drv.ms/u/c/249e9b503aceb073/IQCfAnwjPj2HTJgjhpJPzv_iAXBEna5Bw9AaFpeqC9B87ms?e=ISj7Vq)
+
+
+Note: Download the PBIX file and open it using Power BI Desktop to explore the interactive reports.
