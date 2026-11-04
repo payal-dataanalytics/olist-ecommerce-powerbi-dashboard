@@ -158,7 +158,7 @@ The raw dataset is not included in this repository.
 ![Executive Overview](01_Executive_Overview.png)
 
 ### 2. Seller Performance
-![Seller Performance](02_Seller_Performance.png)
+![Seller Performance](02_Seller_Perfomance.png)
 
 ### 3. Customer Insights
 ![Customer Insights](03_Customer_Insights.png)
